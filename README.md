@@ -8,8 +8,9 @@ GitHub Icons for Mac OS 10.10
 Usage
 ===========
 
-`./setfileicon icns/octofolder1.icns /path/to/your/github-folder`
-
+``
+`./setfileicon icns/octofolder1.icns /path/to/your/github-folder `
+``
 
 Licence
 ===========
