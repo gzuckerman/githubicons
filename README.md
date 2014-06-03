@@ -7,7 +7,7 @@ GitHub Icons for Mac OS Yosemite
 
 Usage
 -----
-    ./setfileicon icns/octofolder1.icns /path/to/your/github-folder
+    ./setfileicon icns/githubicons.icns /path/to/your/github-folder
     
 Contributing
 -----
