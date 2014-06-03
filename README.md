@@ -1,13 +1,18 @@
 GitHub Icons
 ===========
 
-GitHub Icons for Mac OS 10.10
+GitHub Icons for Mac OS Yosemite
 
 ![Github Icons preview](http://www.gregoryzuckerman.co.uk/github/GitHub-Readme.png "Github Icons preview")
 
 Usage
 -----
     ./setfileicon icns/octofolder1.icns /path/to/your/github-folder
+    
+Contributing
+-----
+
+- Feel free to edit them, clone and push back!
 
 
 Licence
