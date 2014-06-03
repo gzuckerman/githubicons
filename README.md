@@ -1,4 +1,4 @@
-GitHub Icons
+GitHub Folder Icon
 ===========
 
 GitHub Icons for Mac OS Yosemite
