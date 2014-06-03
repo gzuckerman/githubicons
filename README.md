@@ -3,7 +3,7 @@ GitHub Icons
 
 GitHub Icons for Mac OS 10.10
 
-![Github Icons preview](http://www.gregoryzuckerman.co.uk/github/GitHub-Yosemeti-Logo-Web.png "Github Icons preview")
+![Github Icons preview](http://www.gregoryzuckerman.co.uk/github/GitHub-Readme.png "Github Icons preview")
 
 Usage
 -----
