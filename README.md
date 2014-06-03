@@ -4,7 +4,7 @@ GitHub Icons
 GitHub Icons for Mac OS 10.10
 
 
-<img src="http://www.gregoryzuckerman.co.uk/github/GitHub-Yosemeti-Logo-Web.png"></img>
+<center><img src="http://www.gregoryzuckerman.co.uk/github/GitHub-Yosemeti-Logo-Web.png"></img></center>
 
 Licence
 ===========
