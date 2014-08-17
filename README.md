@@ -3,7 +3,7 @@ GitHub Folder Icon
 
 GitHub Icons for Mac OS Yosemite
 
-![Github Icons preview](https://github.com/gregoryzuckerman/githubicons/blob/master/png/githubicons.png "Github Icons preview")
+![Github Icons preview](https://github.com/gregoryzuckerman/githubicons/blob/master/png/GitHub-Folder-Icons.png "Github Icons preview")
 
 Usage
 -----
