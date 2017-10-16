@@ -1,7 +1,5 @@
 GitHub Folder Icon
 ===========
-[![stars badge]][stars]
-[![forks badge]][forks]
 
 GitHub Icons for Mac OS Yosemite
 
