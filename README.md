@@ -12,7 +12,7 @@ Usage
 Contributing
 -----
 
-- Feel free to edit them, clone and push back!
+- Feel free to edit them
 
 
 Licence
